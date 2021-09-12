@@ -1,0 +1,28 @@
+body{
+    padding: 25px;
+    font: 1em;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    border: 5px solid orangered;
+    border-radius: .5em;
+    padding: 10px;
+    display: flex;
+    
+}
+
+.item{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 2px solid orangered;
+    background-color: orange;
+}
+
+#one{
+    margin-left: auto;
+}
